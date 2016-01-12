@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+background-color:#283C62;
+font-family: Arial, Droid Sans,	Verdana, Helvetica, sans-serif;
+
+}
+
+#container{
+height: 600px;
+border:thick;
+width: 800px;
+margin:0 auto 0 auto;
+padding-top:45px;
+}
+
+#header{
+background-color:#364F83;
+width:800px;
+text-align:right;
+}
+
+#footer{
+background-color:#364F83;
+height:34px;
+clear:both;
+text-align:right;
+line-height:32px;
+}
+
+#textofooter{
+vertical-align:text-bottom;
+height:32px;
+width:90%;
+float:left;
+padding-right:5px;
+text-align:right;
+padding-top:4px;
+}
+
+#contenido{
+height:400px;
+width:80%;
+float:left;
+}
+
+
+#menu{
+height:200px;
+width:20%;
+float:left;
+}
+
+#posicionMenu{
+padding:5px;
+text-align:right;
+height:250px;
+}
+
+#titulo{
+left:30px;
+padding:15 0 10 40;
+min-width:400px;
+}
+
+#textoCuerpo{
+color:#FFFFFF;
+padding-left:40px;
+padding-bottom:50px;
+padding-right:20px;
+min-width:400px;
+line-height:200%	;
+}
+
+#textoCuerpo150{
+color:#FFFFFF;
+padding-left:40px;
+padding-bottom:50px;
+padding-right:20px;
+min-width:400px;
+line-height:150%	;
+}
+a:link {
+	color: #FFFFFF;
+}
+a:visited {
+	color: #CCCCCC;
+}
+a:hover {
+	color: #CCCCCC;
+}
+a:active {
+	color: #CCCCCC;
+}
+
+.cuerpo{
+color:#FFFFFF;
+line-height:150%;
+text-align:justify;
+font-size:medium;
+}
+
+.cuerpoSinInterlineado{
+color:#FFFFFF;
+line-height:100%;
+text-align:justify;
+font-size:medium;
+}
+
+.tituloSeccion{
+color:#FFFFFF;
+font-size:28px;
+}
+
+
+

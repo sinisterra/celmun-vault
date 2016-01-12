@@ -1,0 +1,90 @@
+body, h1, h2, h3{
+	font-family: 'Open Sans', sans-serif !important;
+}
+
+*{
+	font-size: 14pt;
+}
+.white{
+	color:#ffffff;
+}
+
+.img-portada{
+	max-width:400px;
+	width:100%;
+}
+
+.img-retrato{
+	max-height:480px;
+}
+
+.carousel, .carousel-about{
+	margin-bottom:42px;
+}
+
+.carousel img{
+	width:100%;
+}
+
+.carousel-about img{
+	max-height:400px;
+	max-width:100%; 
+}
+
+.well-material-red, 
+.well-material-lightyellow,
+.well-material-purple, 
+.well-material-lightgreen, 
+.well-material-pink{
+	padding:1em;
+}
+
+.well-material-lightyellow{
+	background-color: gold !important;
+}
+
+.btn-material-lightyellow{
+	color: gold !important;
+}
+
+.navbar-material-indigo{
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.social-icons{
+	font-size:32px;
+}
+
+@media (max-width: 480px) {
+	*{
+		font-size: 11pt;
+	}
+}
+
+.horario th, .horario td{
+	font-size:11pt;
+}
+
+.logo-comision{
+	max-width: 200px;
+	max-height: 200px;
+}
+
+.img-center{
+	margin:0 auto;
+}
+
+.logo-xs{
+	max-height: 32px;
+	margin:0 auto;
+}
+
+.descripcion p, .descripcion ul li{
+	line-height:180%;
+	font-size:12pt;
+}
+
+.container{
+	max-width:960px;
+}

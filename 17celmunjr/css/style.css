@@ -1,0 +1,96 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: #428bca;
+	font-size:11.5pt;
+}
+
+.container-sitio{
+	background-color: #eeeeee;
+	padding:1em;
+	border-radius:0.4em;
+}
+
+.container-header{
+	color:#eeeeee;
+	border:2px solid #eeeeee;
+	border-radius:0.6em;
+	margin:2em auto; 
+}
+
+header{
+	padding:1em;
+	margin:1em;
+	min-height:10em;
+	background-color: none;
+
+}
+
+
+
+header h1{
+	font-size:4rem;
+	font-weight: bold;
+}
+
+nav{
+	border-radius: 0.6em;
+	padding:1em;
+	border:2px solid #428bca;
+	/*background-color:#CCCCCC;*/
+}
+
+main{
+	margin:1em 0em;
+	min-height: 40em;
+}
+
+#agp-a, #agp-b, #unicef, #ocde, #sc{
+	padding:2em;
+}
+
+.img-mesa{
+	height:10em;
+}
+
+.img-mesa img{
+	max-height:10em;
+	width:100%;
+}
+
+.tabla-paises{
+	height:20em;
+	overflow-x:auto;
+}
+
+footer{
+	background-color: #428bca;
+	color:#eeeeee;
+	padding:1em 0em;
+}
+
+
+h1{
+	font-size:5rem;
+}
+
+.img-directorio{
+	width:120px;
+	margin-bottom:5px;
+}
+
+.portada{
+	height:20em;
+	background-image: url('http://dummyimage.com/600x400');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.introduccion p{
+	line-height:160%;
+}
+
+.bandera{
+	max-height:20px;
+	max-width:32px;
+}

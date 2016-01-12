@@ -1,0 +1,102 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : 18pt 'Britannic Bold';
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc02               { /* Common */
+	border          :   0.00pt none #16478f;
+	}
+.cc03               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc04               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e9             { /* celmun-2001003.jpg */
+	background      : transparent url(celmun-2001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  34.50pt;
+	width           : 601.50pt;
+	height          : 484.50pt;
+	}
+div#e8              { /* Inicio */
+	position        : absolute;
+	left            :  94.50pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  30.75pt;
+	}
+div#e7              { /* Comisiones */
+	position        : absolute;
+	left            : 240.75pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  25.50pt;
+	}
+div#e6              { /* Horarios */
+	position        : absolute;
+	left            : 386.25pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  22.50pt;
+	}
+div#e5              { /* Contacto */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 189.75pt;
+	width           : 137.25pt;
+	height          :  22.50pt;
+	}
+span#e4             { /* celmun-2001002.gif */
+	background      : transparent url(celmun-2001002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  83.25pt;
+	top             : 231.00pt;
+	width           : 342.75pt;
+	height          :  40.50pt;
+	}
+div#e3              { /* Bienvenido al Sitio! */
+	position        : absolute;
+	left            :  90.00pt;
+	top             : 237.75pt;
+	width           : 334.50pt;
+	height          :  31.50pt;
+	}
+div#e2              { /* <DIV>Hola! Éste es el po... */
+	position        : absolute;
+	left            : 105.00pt;
+	top             : 279.00pt;
+	width           : 360.00pt;
+	height          : 188.25pt;
+	}
+span#e1             { /* celmun-2001001.jpg */
+	background      : transparent url(celmun-2001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 478.50pt;
+	top             : 226.50pt;
+	width           : 180.00pt;
+	height          : 273.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #5b92e5;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

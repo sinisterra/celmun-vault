@@ -1,0 +1,178 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=ABeeZee);
+
+
+/* CSS Document */
+* {
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: -moz-none;
+-o-user-select: none;
+user-select: none;
+}
+
+p,strong {
+-webkit-user-select: text;
+-khtml-user-select: text;
+-moz-user-select: text;
+-o-user-select: text;
+user-select: text;
+}
+
+img,ul,li{ 
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none; 
+	font-family: 'ABeeZee', sans-serif;
+}
+
+p{
+font-family: 'ABeeZee', sans-serif;
+padding:0;
+margin:0;
+color:#123455;
+}
+
+
+
+p.titulo{
+font-size:48px;
+}
+
+h1{
+}
+
+body{
+background-color:#4B92DB;
+}
+
+#wrapper{
+margin:32px auto;
+background-color:#4B92DB;
+width:960px;
+
+padding-bottom:30px;
+clear:both;
+}
+
+#top{
+width:100%;
+background-color:#4B92DB;
+text-align:right;
+padding:20px 0px;
+}
+
+#navbar{
+height:34px;
+border-bottom:4px solid #ffffff;
+border-top:4px solid #ffffff;
+}
+
+#cuerpo{
+height:640px;
+background-color:#FFFFFF;
+padding:20px;
+border:4px solid #123455;
+}
+
+#left{
+float:left;
+padding:1%;
+width:73%;
+height:100%;
+}
+
+#texto{
+font-family: 'ABeeZee', sans-serif;
+padding-top:30px;
+padding-bottom:30px;
+padding-right:10%;
+}
+
+.texto{
+font-family: 'ABeeZee', sans-serif;
+line-height:200%;
+text-align:justify;
+}
+
+.textoc{
+line-height:200%;
+text-align:center;
+}
+#right{
+float:right;
+padding:1%;
+width:23%;
+height:100%;
+}
+ul.menuul{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+width:100%;
+text-align:right;
+}
+
+li.menuli{
+float:left;
+}
+a:link{
+color:#326191;
+}
+a:hover{
+color:#4b92db;
+}
+a:visited{
+color:#6561A2;
+}
+
+a.menua:link,a.menua:visited{
+display:block;
+width:125px;
+color:#FFFFFF;
+text-align:center;
+padding:6px;
+text-decoration:none;
+font-size:18px;
+}
+
+a.menua:hover,a.menua:active{
+background-color:#263B40;
+}
+
+#footer{
+clear:both;
+padding:16px 0px;
+font-family: 'ABeeZee', sans-serif;
+background-color:#ffffff;
+color:#4B92DB;
+text-align:center;
+border:4px solid #123455;
+}
+
+#clogo{
+padding:12px;
+width:170px;
+float:left;
+text-align:center;
+}
+
+#flogo{
+height:255px;
+}
+
+p.paises{
+size:10px;
+margin:0;
+padding:0;
+size:10px;
+line-height:100%;
+}
+
+#paises{
+float:left;
+padding-right:50px;
+width:150px;
+}

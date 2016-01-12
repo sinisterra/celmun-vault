@@ -1,0 +1,120 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc35               { /* Common */
+	font            : 18pt 'Britannic Bold';
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc36               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc37               { /* Common */
+	border          :   0.00pt none #16478f;
+	}
+.cc38               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc39               { /* Common */
+	font            : 36pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+span#e11            { /* celmun-2007002.jpg */
+	background      : transparent url(celmun-2007002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  81.75pt;
+	top             :  34.50pt;
+	width           : 601.50pt;
+	height          : 484.50pt;
+	}
+div#e10             { /* Inicio */
+	position        : absolute;
+	left            :  93.75pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  30.75pt;
+	}
+div#e9              { /* Comisiones */
+	position        : absolute;
+	left            : 240.00pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  25.50pt;
+	}
+div#e8              { /* Horarios */
+	position        : absolute;
+	left            : 385.50pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  22.50pt;
+	}
+div#e7              { /* Contacto */
+	position        : absolute;
+	left            : 532.50pt;
+	top             : 189.75pt;
+	width           : 137.25pt;
+	height          :  22.50pt;
+	}
+div#e6              { /* Jueves 5 de Noviembre de... */
+	position        : absolute;
+	left            :  98.25pt;
+	top             : 244.50pt;
+	width           : 184.50pt;
+	height          : 201.75pt;
+	}
+div#e5              { /* Viernes 6 de Noviembre d... */
+	position        : absolute;
+	left            : 288.75pt;
+	top             : 245.25pt;
+	width           : 184.50pt;
+	height          : 173.25pt;
+	}
+div#e4              { /* Sábado 7 de Noviembre de... */
+	position        : absolute;
+	left            : 477.00pt;
+	top             : 245.25pt;
+	width           : 199.50pt;
+	height          : 144.75pt;
+	}
+span#e3             { /* celmun-2007001.gif */
+	background      : transparent url(celmun-2007001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 478.50pt;
+	top             : 402.75pt;
+	width           : 192.75pt;
+	height          :  69.75pt;
+	}
+div#e2              { /* Descargue el Horario */
+	position        : absolute;
+	left            : 477.75pt;
+	top             : 408.00pt;
+	width           : 193.50pt;
+	height          :  25.50pt;
+	}
+div#e1              { /* AQUÍ */
+	position        : absolute;
+	left            : 478.50pt;
+	top             : 422.25pt;
+	width           : 192.75pt;
+	height          :  69.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #5b92e5;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

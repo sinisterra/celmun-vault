@@ -1,0 +1,131 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc17               { /* Common */
+	font            : 18pt 'Britannic Bold';
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc18               { /* Common */
+	border          :   0.00pt none #16478f;
+	}
+.cc19               { /* Common */
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	text-align      : center;
+	}
+.cc20               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc21               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc22               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e12            { /* celmun-2004003.jpg */
+	background      : transparent url(celmun-2004003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  82.50pt;
+	top             :  34.50pt;
+	width           : 601.50pt;
+	height          : 484.50pt;
+	}
+div#e11             { /* Inicio */
+	position        : absolute;
+	left            :  94.50pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  30.75pt;
+	}
+div#e10             { /* Comisiones */
+	position        : absolute;
+	left            : 240.75pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  25.50pt;
+	}
+div#e9              { /* Horarios */
+	position        : absolute;
+	left            : 386.25pt;
+	top             : 190.50pt;
+	width           : 137.25pt;
+	height          :  22.50pt;
+	}
+div#e8              { /* Contacto */
+	position        : absolute;
+	left            : 533.25pt;
+	top             : 189.75pt;
+	width           : 137.25pt;
+	height          :  22.50pt;
+	}
+span#e7             { /* celmun-2004002.jpg */
+	background      : transparent url(celmun-2004002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 303.75pt;
+	width           : 156.75pt;
+	height          : 150.00pt;
+	}
+span#e6             { /* celmun-2004001.gif */
+	background      : transparent url(celmun-2004001.gif) no-repeat top left;
+	position        : absolute;
+	left            :  83.25pt;
+	top             : 231.00pt;
+	width           : 342.75pt;
+	height          :  40.50pt;
+	}
+div#e5              { /* Organización Mundial de ... */
+	position        : absolute;
+	left            : 121.50pt;
+	top             : 237.75pt;
+	width           : 283.50pt;
+	height          :  31.50pt;
+	}
+div#e4              { /* Presidente:             ... */
+	position        : absolute;
+	left            : 324.75pt;
+	top             : 277.50pt;
+	width           : 317.25pt;
+	height          :  47.25pt;
+	}
+div#e3              { /* Tópicos */
+	position        : absolute;
+	left            : 353.25pt;
+	top             : 344.25pt;
+	width           :  65.25pt;
+	height          :  21.75pt;
+	}
+div#e2              { /* <ol type="A"> \<li>  For... */
+	position        : absolute;
+	left            : 334.50pt;
+	top             : 378.75pt;
+	width           : 254.25pt;
+	height          :  30.75pt;
+	}
+div#e1              { /* B. Métodos hacia la inmu... */
+	position        : absolute;
+	left            : 333.75pt;
+	top             : 426.00pt;
+	width           : 252.00pt;
+	height          :  16.50pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #5b92e5;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

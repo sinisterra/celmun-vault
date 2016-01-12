@@ -1,0 +1,138 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc20               { /* Common */
+	border          :   0.00pt none #f1e71f;
+	clip            : rect(0.00pt,698.25pt,7.50pt,0.00pt);
+	}
+.cc21               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e15            { /* xiv-celmun007010.gif */
+	background      : transparent url(xiv-celmun007010.gif) no-repeat top left;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 195.75pt;
+	width           : 698.25pt;
+	height          :   7.50pt;
+	}
+span#e14            { /* xiv-celmun007009.jpg */
+	background      : transparent url(xiv-celmun007009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.75pt;
+	top             :  19.50pt;
+	width           : 690.75pt;
+	height          : 150.00pt;
+	}
+img#e13             { /* xiv-celmun007008.jpg */
+	position        : absolute;
+	left            : 592.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e12             { /* xiv-celmun007007.jpg */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e11             { /* xiv-celmun007006.jpg */
+	position        : absolute;
+	left            : 451.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e10             { /* xiv-celmun007005.jpg */
+	position        : absolute;
+	left            : 310.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e9              { /* xiv-celmun007004.jpg */
+	position        : absolute;
+	left            : 169.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+span#e8             { /* xiv-celmun007003.jpg */
+	background      : transparent url(xiv-celmun007003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 159.75pt;
+	top             : 330.75pt;
+	width           : 173.25pt;
+	height          : 143.25pt;
+	}
+div#e7              { /* Alejandro Roa Contreras */
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 333.00pt;
+	width           : 199.50pt;
+	height          :  18.00pt;
+	}
+div#e6              { /* Analucía Santibáñez Cast... */
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 357.75pt;
+	width           : 209.25pt;
+	height          :  16.50pt;
+	}
+div#e5              { /* Adrián Yahir Ocaña */
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 381.75pt;
+	width           : 225.75pt;
+	height          :  16.50pt;
+	}
+div#e4              { /* Fortalecimiento de los t... */
+	position        : absolute;
+	left            : 264.75pt;
+	top             : 423.75pt;
+	width           : 374.25pt;
+	height          :  30.75pt;
+	}
+div#e3              { /* Reviewing trends and pro... */
+	position        : absolute;
+	left            : 265.50pt;
+	top             : 457.50pt;
+	width           : 363.00pt;
+	height          :  16.50pt;
+	}
+img#e2              { /* xiv-celmun007002.jpg */
+	position        : absolute;
+	left            : 306.00pt;
+	top             : 485.25pt;
+	width           : 133.50pt;
+	height          :  67.50pt;
+	}
+span#e1             { /* xiv-celmun007001.jpg */
+	background      : transparent url(xiv-celmun007001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 229.50pt;
+	top             : 276.75pt;
+	width           : 287.25pt;
+	height          :  24.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	background-image: url(xiv-celmun007b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

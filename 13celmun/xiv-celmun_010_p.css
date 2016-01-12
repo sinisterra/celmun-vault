@@ -1,0 +1,138 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc26               { /* Common */
+	border          :   0.00pt none #f1e71f;
+	clip            : rect(0.00pt,698.25pt,7.50pt,0.00pt);
+	}
+.cc27               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e15            { /* xiv-celmun010010.gif */
+	background      : transparent url(xiv-celmun010010.gif) no-repeat top left;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 195.75pt;
+	width           : 698.25pt;
+	height          :   7.50pt;
+	}
+span#e14            { /* xiv-celmun010009.jpg */
+	background      : transparent url(xiv-celmun010009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.75pt;
+	top             :  19.50pt;
+	width           : 690.75pt;
+	height          : 150.00pt;
+	}
+img#e13             { /* xiv-celmun010008.jpg */
+	position        : absolute;
+	left            : 592.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e12             { /* xiv-celmun010007.jpg */
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e11             { /* xiv-celmun010006.jpg */
+	position        : absolute;
+	left            : 451.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e10             { /* xiv-celmun010005.jpg */
+	position        : absolute;
+	left            : 310.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+img#e9              { /* xiv-celmun010004.jpg */
+	position        : absolute;
+	left            : 169.50pt;
+	top             : 180.75pt;
+	width           : 137.25pt;
+	height          :  36.00pt;
+	}
+span#e8             { /* xiv-celmun010003.jpg */
+	background      : transparent url(xiv-celmun010003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 159.75pt;
+	top             : 330.75pt;
+	width           : 173.25pt;
+	height          : 143.25pt;
+	}
+div#e7              { /* José de Jesús Rico Galin... */
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 333.00pt;
+	width           : 199.50pt;
+	height          :  16.50pt;
+	}
+div#e6              { /* Juan Carlos González Res... */
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 357.75pt;
+	width           : 209.25pt;
+	height          :  16.50pt;
+	}
+div#e5              { /* Miguel Angel Aguilar Zam... */
+	position        : absolute;
+	left            : 370.50pt;
+	top             : 381.75pt;
+	width           : 225.75pt;
+	height          :  16.50pt;
+	}
+div#e4              { /* La violencia contra la m... */
+	position        : absolute;
+	left            : 264.75pt;
+	top             : 432.00pt;
+	width           : 430.50pt;
+	height          :  16.50pt;
+	}
+div#e3              { /* Eliminación de todas las... */
+	position        : absolute;
+	left            : 264.75pt;
+	top             : 455.25pt;
+	width           : 436.50pt;
+	height          :  16.50pt;
+	}
+img#e2              { /* xiv-celmun010002.jpg */
+	position        : absolute;
+	left            : 306.00pt;
+	top             : 485.25pt;
+	width           : 133.50pt;
+	height          :  67.50pt;
+	}
+span#e1             { /* xiv-celmun010001.jpg */
+	background      : transparent url(xiv-celmun010001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  86.25pt;
+	top             : 280.50pt;
+	width           : 573.00pt;
+	height          :  24.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	background-image: url(xiv-celmun010b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

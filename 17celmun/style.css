@@ -1,0 +1,110 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+html, body{
+	height:100%;
+	margin:0;
+	padding:0;
+	background-color: #1b344e;
+	font-family: 'Open Sans', sans-serif;
+	color:#FFFFFF;
+}
+
+#wrapper{
+	min-height:500px;
+	min-width:800px;
+	height:100%;
+	max-width:100%;
+}
+
+#container{
+	height:100%;
+	width:78%;
+	padding:1%;
+	padding-left:2%;
+	background-color: #4b92db;
+	float:left;
+}
+
+#sidebar{
+	height:100%;
+	width:15%;
+	padding-top: 1%;
+	padding-left: 1%;
+	background-color:#1b344e;
+	/*background-color: #4b92db;*/
+	float:left;
+}
+
+#titulo{
+	height:12%;
+	padding:2% 0px;
+	overflow:hidden;
+	text-align: right;
+}
+
+#container-left{
+	width:25%;
+	height:75%;
+	float:left;
+	text-align:center;
+	border-right:2px solid gold;
+	padding-right:1%;
+	padding-bottom:1%;
+}
+
+#container-right{
+	float:right;
+	width:70%;
+	height:75%;
+	padding-right:2%;
+	padding-bottom:1%;
+	overflow-x:hidden;
+	line-height: 200%;
+}
+
+img.logo{
+	min-width:100px;
+	max-width: 200px;
+}
+
+.footer{
+	width:100%;
+	height:30px;
+	clear:both;
+	padding-top: 10px;
+	text-align:center;
+	font-size: 10pt;
+	font-style: italic;
+
+}
+
+.wordcloud{
+	width:100%;
+}
+/*estilos*/
+
+#titulo h1{
+	font-size:250%;
+	color:#ffffff;
+	margin:0;
+}
+#titulo span{
+	font-size: 20px;
+	padding-right:16px;
+	color:#1b344e;
+}
+
+/*estilos container-left*/
+h2{
+	padding:0;
+	font-size:18pt;
+	color:#1b344e;
+}
+
+#container-left img{
+	width:100%;
+}
+
+#container-left img{
+	width:100%;
+}
