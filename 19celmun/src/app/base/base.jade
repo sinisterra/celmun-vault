@@ -1,0 +1,17 @@
+md-toolbar.md-primary.main-toolbar(layout="column" layout-align="center-center")
+  img.main-logo(src="assets/images/logo.png")
+  h2.md-display-1(hide-xs) XIX Centro Escolar del Lago Model United Nations
+  h3.md-headline(hide-xs) 16, 17 y 18 de Marzo de 2016
+
+md-tabs.md-primary(md-center-tabs md-autoselect md-selected="base.selectedTab")
+  md-tab(label="{{tab.label}}" ui-sref="{{tab.state}}" ng-repeat="tab in base.tabs" md-on-select="base.selected")
+  //- md-tab(label="Secretariado" ui-sref="secretariat")
+  //- md-tab(label="Comités" ui-sref="committees")
+  //- md-tab(label="¿Qué es CELMUN" ui-sref="about")
+  //- md-tab(label="Agenda" ui-sref="agenda")
+  //- md-tab(label="Sede" ui-sref="venue")
+  //- md-tab(label="Registro" ui-sref="signup")
+
+
+md-content.app-content(layout layout-align="center" layout-sm="column" layout-padding)
+  div(ui-view flex-xs="100" flex-gt-sm="60" flex-md="80" flex="100")

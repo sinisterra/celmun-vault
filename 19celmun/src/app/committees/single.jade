@@ -1,0 +1,56 @@
+div(layout layout-align="end")
+  md-button.md-primary(ui-sref="committees")
+    md-icon.material-icon arrow_back
+    | Ver todos los comités
+
+md-content.md-whiteframe-z1(layout="column" layout-align="center-center" style="color:{{vm.com.colors.text}};background:{{vm.com.colors.primary}}")
+  img.logo-display(ng-src="assets/{{vm.code}}/logo.png")
+  h1.text-center
+    | {{vm.com.name}}
+    span.comite-code ({{vm.com.code}})
+  div(layout layout-align="center-center")
+    p.md-caption(flex="85" )
+      i {{vm.com.about}}
+md-content.md-whiteframe-z1(layout="column" layout-align="center-center")
+  img(src="assets/{{vm.code}}/mesa.jpg")
+
+div(layout layout-align="space-between" layout-xs="column")
+  md-content.md-whiteframe-z1.md-padding(flex)
+    h2.md-headline {{vm.com.titles.chair}}
+    md-list
+      md-list-item.md-2-line
+        .md-list-item-text
+          h3 {{vm.com.titles.p}}
+          p {{vm.com.p}}
+      md-list-item.md-2-line
+        .md-list-item-text
+          h3 {{vm.com.titles.m}}
+          p {{vm.com.m}}
+      md-list-item.md-2-line
+        .md-list-item-text
+          h3 {{vm.com.titles.oc}}
+          p {{vm.com.oc}}
+
+  md-content.md-whiteframe-z1.md-padding(flex)
+    h2.md-headline Agenda
+    md-list
+      md-list-item.md-2-line.md-long-text
+        .md-list-item-text
+          h3 {{vm.com.titles.a}}
+          p {{vm.com.topics.a}}
+      md-list-item.md-2-line.md-long-text
+        .md-list-item-text
+          h3 {{vm.com.titles.b}}
+          p {{vm.com.topics.b}}
+
+    div(layout="column" layout-align="center-center")
+      md-button.md-primary(href="assets/{{vm.code}}/handbook.pdf" target="_blank")
+        md-icon.material-icon file_download
+        | Handbook
+      md-button.md-primary(href="assets/docs/manual-xix.pdf" target="_blank" ng-show="vm.com.lang === 'es'")
+        md-icon.material-icon file_download
+        | Reglamento
+      md-button.md-primary(href="assets/docs/guia-{{vm.com.lang}}.pdf" target="_blank")
+        md-icon.material-icon file_download
+        | {{vm.com.lang === 'es' ? 'Guía Rápida' : 'Quick Guide'}}
+

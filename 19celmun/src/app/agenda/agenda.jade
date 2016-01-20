@@ -1,0 +1,10 @@
+div(layout layout-xs="column")
+  div(flex ng-repeat="day in agenda.days")
+    h2.md-title.text-center {{day.name}}
+    md-content.md-whiteframe-z1.md-padding
+      md-list
+        md-list-item.md-2-line(ng-repeat="session in day.sessions")
+          .md-list-item-text
+            h3 {{session.duration}}
+            h4 {{session.name}}
+
